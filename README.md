@@ -5,6 +5,8 @@ Directory enumeration tools are software applications or scripts designed to dis
 To use this tool download it 
 Run this tool using python3 server
 
+                        Command : python3 dir_enum.py
+                
 Note :- if urllib is not installed install it using pip 
 
-        - pip install urllib
+        - pip3 install urllib
